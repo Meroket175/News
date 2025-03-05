@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /node_modules/
+Disallow: /dist/
+Disallow: /build/
+Disallow: /src/
+Disallow: /tests/
+
+# Izinkan crawling di seluruh halaman lainnya
+Allow: /
+
+# Menambahkan sitemap (jika tersedia)
+Sitemap: https://github.com/Meroket175/News/sitemap.xml
