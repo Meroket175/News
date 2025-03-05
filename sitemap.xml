@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/Meroket175/News</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/blob/main/LICENSE</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/activity</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/issues</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/pulls</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/actions</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/security</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/blob/main/README.md</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/blob/main/googlefdd89fe13a2ce6f9.html</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/blob/main/index.html</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/releases</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/search?q=repo%3AMeroket175%2FNews++language%3AHTML</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/labels</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/milestones</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/actions/workflows/pages/pages-build-deployment</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/actions/caches</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/actions/runs/13665566395</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/actions/runs/13665561109</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/actions/runs/13665512687</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/actions/runs/13665498996</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/actions/runs/13665480190</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/labels?sort=name-asc</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/labels?sort=name-desc</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/labels?sort=count-desc</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/labels?sort=count-asc</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/labels/bug</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/labels/documentation</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/labels/duplicate</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/labels/enhancement</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/labels/good%20first%20issue</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/labels/help%20wanted</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/labels/invalid</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/labels/question</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/labels/wontfix</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/milestones?state=open</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/milestones?state=closed</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/actions/caches?query=sort%3Aaccessed-desc</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/actions/caches?query=sort%3Aaccessed-asc</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/actions/caches?query=sort%3Acreated-desc</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/actions/caches?query=sort%3Acreated-asc</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/actions/caches?query=sort%3Asize-desc</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/actions/caches?query=sort%3Asize-asc</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/actions/runs/13665566395/job/38206096700</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/actions/runs/13665566395/job/38206113819</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/actions/runs/13665566395/job/38206113818</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/actions/runs/13665566395/usage</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/commit/105c8fb7fea09fcd6961f374262bf4a85a36daf3</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/actions/runs/13665561109/job/38206079277</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/actions/runs/13665561109/job/38206092347</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/actions/runs/13665561109/job/38206092339</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/actions/runs/13665561109/usage</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/commit/0d451b2fd0d5aefad5dc76b0dea6d0a19878ebf8</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/actions/runs/13665512687/job/38205934578</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/actions/runs/13665512687/job/38205949329</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/actions/runs/13665512687/job/38205949330</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/actions/runs/13665512687/usage</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/commit/38c5b98b7d55ef613d0951c297afbe3a6e4b0e21</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/actions/runs/13665498996/job/38205891811</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/actions/runs/13665498996/job/38205904716</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/actions/runs/13665498996/job/38205904720</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/actions/runs/13665498996/usage</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/commit/e477626cf82110c0277f95d64fb475f18ac995db</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/actions/runs/13665480190/job/38205837473</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/actions/runs/13665480190/job/38205856044</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/actions/runs/13665480190/job/38205856041</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/actions/runs/13665480190/usage</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/commit/2dacdfc924d38b02bd9d2039d7796a55294a4266</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Meroket175/News/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2025-03-05T00:18:16+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+
+
+</urlset>
